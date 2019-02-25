@@ -1,0 +1,24 @@
+{
+    "name": "rafaelneris/designpatterns",
+    "require": {
+       "php": ">=7.0.5"
+    },
+    "require-dev": {
+       "phpunit/phpunit": "5.7@stable",
+       "squizlabs/php_codesniffer": "dev-master"
+    },
+    "minimum-stability": "alpha",
+    "authors": [{
+       "name": "Rafael Neris",
+       "email": "rafaelnerisdj@gmail.com"
+    }],
+    "autoload": {
+       "psr-4": {
+          "rafaelneris\\" : "vendor/rafaelneris",
+          "App\\" : "app"
+       }
+    },
+    "config": {
+       "bin-dir": "bin"
+    }
+}
