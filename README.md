@@ -1,2 +1,2 @@
 # studing-designpatterns
-Studing Design Patterns
+Studing Design Patterns applying principles with PHP using Docker (MYSQL, NGINX)
